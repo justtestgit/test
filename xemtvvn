@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png" group-title="TVVN",VTV1
-http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1566583982&vtcdigicomendtime=1566670382&vtcdigicomhash=VOA7MpVDXmmJpTMxs7_OBB3tJlN0I0dZF1h-7JmeqiM=
+http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1566641539&vtcdigicomendtime=1566727939&vtcdigicomhash=D0C-HwHDupSBDjQ-BkwRv1yvZo2--_-vl-_kohRsvFs=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/HUA5USF8OI.png" group-title="TVVN",VTV2
-http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1566584006&vtcdigicomendtime=1566670406&vtcdigicomhash=5ubbrLb8m8AFAQU-CfPafCY0PH2_15HPetwOWBGxZa0=
+http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1566641562&vtcdigicomendtime=1566727962&vtcdigicomhash=-tM1NwFc1aXkEUmk8S6I2QyykFG1zCE2toM2h8h4Ee8=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/N3WARKD1DR.png" group-title="TVVN",VTV4
-http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1566584023&vtcdigicomendtime=1566670423&vtcdigicomhash=w3mkqnIcOkZO0FDG1GMH4fyCPyMVHBnn_fa4u-DtDJ8=
+http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1566641574&vtcdigicomendtime=1566727974&vtcdigicomhash=4bLdxhO72M6N_-wrcPFAk5CFrSKdZghgMymLbgfUuQg=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/G5I534ZDXF.png" group-title="TVVN",HTV9
-http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1566584067&vtcdigicomendtime=1566670467&vtcdigicomhash=C-f8q1DN8gouEFJ_JxrFcl4BhWrwbpg7doBHa4F4Es4=
+http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1566641596&vtcdigicomendtime=1566727996&vtcdigicomhash=VOFvFPY2r9Gfdco5CujbJn8fNuIN6Ws2MUUdoq_r68Y=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png" group-title="TVVN",VTV3
-http://118.107.114.5:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1566584087&vtcdigicomendtime=1566670487&vtcdigicomhash=HAt411EE5vluz31sr9g90EA1wpmkWtjyP0ozm_Qcwd4=
+http://118.107.114.5:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1566641620&vtcdigicomendtime=1566728020&vtcdigicomhash=SwrvNaBEm0F6PiQRNE-neLEcS5pAn1okWS_l8mbf1Ic=
 #EXTINF:-1 tvg-logo="" group-title="TVVN",Tao_Quan_2019
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_15/2019/thang02/04/vtv3_gapnhaucuoinam2019_Taoquan.mp4/playlist.m3u8?vtcdigicomstarttime=1566422327&vtcdigicomendtime=1566508727&vtcdigicomhash=Mzfmf3kspPoOnF5UZkdjH6VC9aaZN2MOc6Ym7DNYt5A=
+http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_15/2019/thang02/04/vtv3_gapnhaucuoinam2019_Taoquan.mp4/playlist.m3u8?vtcdigicomstarttime=1566641694&vtcdigicomendtime=1566728094&vtcdigicomhash=PMLAl6kuVrlskKa-bx7aNyz5bn0TCKyUePN0BNxYbrk=
