@@ -1,27 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png" group-title="TVVN",VTV1
-http://118.107.114.5:1935/tvnet/smil:vtv1.smil/chunklist_w111156570_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTY3MDAzNDU0JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NjcwODk4NTQmdnRjZGlnaWNvbWhhc2g9UW4tOVI2R1l4Mm9iT0ZKOEw5VTMtbUozcHBTZ20wQmZibXNpWUlUUmpucz0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1567085085&vtcdigicomendtime=1567171485&vtcdigicomhash=n86S3l90mvH5T7-z0YImOAnE4lPFZDx6bSZ6DbjZO7k=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/HUA5USF8OI.png" group-title="TVVN",VTV2
-http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1567003603&vtcdigicomendtime=1567090003&vtcdigicomhash=NZTe14TLE6nCY0mW08eAUFXpB4gAy6BIPQiFRj_aBlY=
+http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1567085123&vtcdigicomendtime=1567171523&vtcdigicomhash=9cvzDcRuuXJu3REh_1yCZ6ARjGHyPZCbgr3cNowseK8=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/N3WARKD1DR.png" group-title="TVVN",VTV4
-http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1567003615&vtcdigicomendtime=1567090015&vtcdigicomhash=uJ-NV-96xL_a92XRvDBFdcDErNmEEhfxdDiHIm2Uq6I=
+http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1567085141&vtcdigicomendtime=1567171541&vtcdigicomhash=mRoAde57UI9nU1A3HasPDM7VyY0wclE0BSRYKSiYgjw=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/G5I534ZDXF.png" group-title="TVVN",HTV9
-http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1567003633&vtcdigicomendtime=1567090033&vtcdigicomhash=I0OdCAH0TR8MgcIkymhAltn7kirChAjaF6c2Qhqr7_E=
+http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1567085156&vtcdigicomendtime=1567171556&vtcdigicomhash=es_neERgK9f1-Cg7LeQRHzS5DBB7_fkUMuTJLLG6t3Y=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png" group-title="TVVN",VTV3
-http://118.107.114.5:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1567003681&vtcdigicomendtime=1567090081&vtcdigicomhash=u7_7sLWifT11jgBU3Us4J3qUTuyvmHODt9_lX7cvFUI=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap1
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/14/vtv1_Nhungnhanvienguongmau_1.mp4/playlist.m3u8?vtcdigicomstarttime=1566827203&vtcdigicomendtime=1566913603&vtcdigicomhash=KZiP7lGXEEHNTPsgBybDGWgAFwOjIlWcR6LGs7tVeWM=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap2
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/15/vtv1_nhungnhanvienguongmau_2.mp4/playlist.m3u8?vtcdigicomstarttime=1566827172&vtcdigicomendtime=1566913572&vtcdigicomhash=y0dctVY0jiQYwa-bJVHmdsbdI54C9Zr3GvwYkl2N8ig=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap3
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/19/vtv1_nhungnhanvienguongmautap3.mp4/playlist.m3u8?vtcdigicomstarttime=1566827135&vtcdigicomendtime=1566913535&vtcdigicomhash=Zp1GydDWLXk1kCMxKrIiWwp2Ro-hibCyjMIvTxxlaG8=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap4
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/20/vtv1_nhungnhanvietnguongmautap4.mp4/playlist.m3u8?vtcdigicomstarttime=1566827096&vtcdigicomendtime=1566913496&vtcdigicomhash=3P0oLHGIahaHAHRh-04ZlY8zO-RftvXuALevoNIEJiE=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap5
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/21/vtv1_nhungnhanvienguongmautap5.mp4/playlist.m3u8?vtcdigicomstarttime=1566827031&vtcdigicomendtime=1566913431&vtcdigicomhash=ahpNyuGcp-D1NgIKZePC2TxgcQ3w9jtg2kdWVUDo82M=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap6
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/22/vtv1_nhungnhanvienguongmautap6.mp4/playlist.m3u8?vtcdigicomstarttime=1566826982&vtcdigicomendtime=1566913382&vtcdigicomhash=XRElXzLi_NI2lNKKpRTxdmzE9KSGotLQ2EuCGRN6ZJw=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap7
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/23/vtv1_nhungnhanvienguongmautap7.mp4/playlist.m3u8?vtcdigicomstarttime=1566826876&vtcdigicomendtime=1566913276&vtcdigicomhash=5UhAVnUaYuR2nsUip8W8DJWuvFjHVIrLf2Wf2xfBnjw=
-#EXTINF:-1 tvg-logo="" group-title="TVVN",Nhan_Vien_Guong_Mau_Tap8
-http://118.107.114.22:1935/vod/_definst_/mp4:THinhOFFLINE_14/2019/thang08/24/vtv1_nhungnhanvienguongmautap8.mp4/playlist.m3u8?vtcdigicomstarttime=1566826521&vtcdigicomendtime=1566912921&vtcdigicomhash=qlkPnoUlvM03esDjOVwwuKT1x2sXYvOadgoznDS0n6o=
+http://118.107.114.5:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1567085173&vtcdigicomendtime=1567171573&vtcdigicomhash=FKTDOG1_iKkuaKDl-gIgv-HJ1KC-1AEUzmJ-WWN_6Uo=
