@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png" group-title="TVVN",VTV1
-http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1567554322&vtcdigicomendtime=1567640722&vtcdigicomhash=V6tIPgUeFqGIMC1E-0uZIvtRWbVwJcHLGQOZbgUUzlU=
+http://118.107.114.5:1935/tvnet/smil:vtv1.smil/playlist.m3u8?vtcdigicomstarttime=1567595565&vtcdigicomendtime=1567681965&vtcdigicomhash=sgi_sFAuZwb7OLCN0edCAIFxmsjKXFuIp865pWaiQ48=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/HUA5USF8OI.png" group-title="TVVN",VTV2
-http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1567554303&vtcdigicomendtime=1567640703&vtcdigicomhash=Mw5GY8V63-0bLaKenmuvGe-nhSKltXmyj035qvuz36M=
+http://118.107.114.5:1935/tvnet/smil:vtv2.smil/playlist.m3u8?vtcdigicomstarttime=1567595599&vtcdigicomendtime=1567681999&vtcdigicomhash=EDiCCLwtt_htrxIPKKUn3_oKj7dUpbEQchYpTHVUex4=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/N3WARKD1DR.png" group-title="TVVN",VTV4
-http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1567554337&vtcdigicomendtime=1567640737&vtcdigicomhash=_-GKKZk0KGlAZk6VQHPZtNEf-LJ_4Dz-kSaV4p_1xRk=
+http://118.107.114.5:1935/tvnet/smil:vtv4.smil/playlist.m3u8?vtcdigicomstarttime=1567595626&vtcdigicomendtime=1567682026&vtcdigicomhash=gs3wM5vMywaZuVz9QJ8hzcSFLhaT-aB0f8yoaPQb2VA=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/G5I534ZDXF.png" group-title="TVVN",HTV9
-http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1567554351&vtcdigicomendtime=1567640751&vtcdigicomhash=2PuhBUKuwuVfO7GYnasyE6tAB8pkLp-ntoVs2G3fzRc=
+http://118.107.114.5:1935/tvnet/smil:htv9.smil/playlist.m3u8?vtcdigicomstarttime=1567595656&vtcdigicomendtime=1567682056&vtcdigicomhash=PqCRyOIJSbRENqLMC3qqOlrUQAVrsoTwLg3AVwBcJbI=
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/JNIJC8YZZY.png" group-title="TVVN",VTV3
 http://118.107.114.5:1935/tvnet/smil:vtv3.smil/playlist.m3u8?vtcdigicomstarttime=1567554366&vtcdigicomendtime=1567640766&vtcdigicomhash=FHS-sGYIcRmgqnVRUk0nCv83IVhKXm4lV5EPsz2tQH4=
