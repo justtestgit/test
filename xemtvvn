@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/QKGSGH8O8M.png" group-title="TVVN",VTV1
-http://118.107.114.5:1935/tvnet/smil:vtv1.smil/chunklist_w444295210_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNTY4NDY1JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE2NTQ4NjUmdnRjZGlnaWNvbWhhc2g9OVB1R2ZXb21reThpbm1XUDRtb2R1UHZLc2xseXY1QlgxVl9fZGtrX2pDRT0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:vtv1.smil/chunklist_w584735387_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNjUwMTQ5JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE3MzY1NDkmdnRjZGlnaWNvbWhhc2g9TEtpWFBjal9TLXVZTW84NEl6R3hzc1N0d21lNkxyTkVBMUpPemN3Q0w3VT0=.m3u8
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/HUA5USF8OI.png" group-title="TVVN",VTV2
-http://118.107.114.5:1935/tvnet/smil:vtv2.smil/chunklist_w358281284_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNTY4NDg2JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE2NTQ4ODYmdnRjZGlnaWNvbWhhc2g9QkJWd3piODZMY3U2QXMxc1FvM2lnTml2QzhIZW5rVmlXUHd1X0R2dUM1bz0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:vtv2.smil/chunklist_w369887209_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNjUwMTY3JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE3MzY1NjcmdnRjZGlnaWNvbWhhc2g9dExqZERjWDItSUpYb1lyVVg0Z2lvWloycGRPZUJMYVpXMldnbUhFTkJRdz0=.m3u8
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/N3WARKD1DR.png" group-title="TVVN",VTV4
-http://118.107.114.5:1935/tvnet/smil:vtv4.smil/chunklist_w1850154237_b1200000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNTY4NTA0JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE2NTQ5MDQmdnRjZGlnaWNvbWhhc2g9WmhwQ2hnNHVQcnVyYms5cWFsNnlDRUpNN1pkUGQwelRVRFQzTFVPREVydz0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:vtv4.smil/chunklist_w436560871_b1200000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNjUwMTg0JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE3MzY1ODQmdnRjZGlnaWNvbWhhc2g9NV85QVVHVkhuTVcxT21kdjl5dWJDQ2dzaV9nWFhjZ1hwdWhYaUhfVkpjND0=.m3u8
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/11/10/G5I534ZDXF.png" group-title="TVVN",HTV9
-http://118.107.114.5:1935/tvnet/smil:htv9.smil/chunklist_w1928330545_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNTY4NTI1JnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE2NTQ5MjUmdnRjZGlnaWNvbWhhc2g9M2pxMEYycVJMdXltNzExRUxqLVA3bERER1BJMWVudjFvUlA3WDJvOS01ND0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:htv9.smil/chunklist_w997203114_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNjUwMjEyJnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE3MzY2MTImdnRjZGlnaWNvbWhhc2g9Mk5yWDVhOVFqcnM2NFZCRlY2M0pvWHZmQVpfSUItaUJINXRadWhQajJHVT0=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TVVN",VTC1
-http://118.107.114.5:1935/tvnet/smil:vtc1.smil/chunklist_w1321273819_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNTY4NTQwJnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE2NTQ5NDAmdnRjZGlnaWNvbWhhc2g9Wm16WFRYamRpSGJ5NVBtR1FWblZnNm1VVFlHNzdHeTRrUVR4aEZKRTFOdz0=.m3u8
+http://118.107.114.5:1935/tvnet/smil:vtc1.smil/chunklist_w36091172_b1400000_tkdnRjZGlnaWNvbXN0YXJ0dGltZT0xNTcxNjUwMjMwJnZ0Y2RpZ2ljb21lbmR0aW1lPTE1NzE3MzY2MzAmdnRjZGlnaWNvbWhhc2g9eENSZnAxcGJFR0xON1NQT2taZUEwTHFXT1V1NGQ3bTFkTTJPSTlVRGZaMD0=.m3u8
